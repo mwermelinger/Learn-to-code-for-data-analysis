@@ -1,0 +1,638 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,17062015,,14104602,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,56302663,,26259792,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,36,Australia,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,16117,,50331,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,90,,360,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,770771,,1424271,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,597469,,996031,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,100,Bulgaria,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1,,191,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,124,Canada,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4813,,50193,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,144,Sri Lanka,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,571,,3089,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,447823,,1022524,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4289,,4029,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2050253,,2546959,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,3384,,2944,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,238,Falkland Isds (Malvinas),,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1786,,4892,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,120853,,160678,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,770469,,1052140,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1089711,,1761612,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1018116,,633626,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,89759,,281780,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,52,,251,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,44903,,224000,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1282,,2843,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,10987298,,6635455,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,53412910,,20906885,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2403,,5896,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,12300,,18220,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,428,Latvia,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,168,,683,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,10601,,15649,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,3498,,9818,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,512,Oman,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,259,,1441,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,433014,,728391,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,235393,,439303,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,879752,,779394,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,682,,654,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,22693,,27595,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,568,,1826,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,994,,4771,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,99240,,176266,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,800,,9524,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,710,South Africa,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,5691,,7043,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1,,15,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,154685,,139810,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,16711,,72453,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,6398,,4963,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,780,Trinidad and Tobago,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,5376,,10596,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,525,,5811,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,13419,,26520,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,7179,,94762,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,899,"Areas, nes",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,19608,,17906,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,11115574,,12426222,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,52285704,,25359028,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,127,,523,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,692864,,1114140,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,395590,,715695,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,92,Br. Virgin Isds,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,13500,,21140,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,124,Canada,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,3465,,36827,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,750369,,1629613,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,15217,,26237,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,20601,,48442,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1979350,,2525278,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2651,,2826,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,212,Dominica,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,690,,1709,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,238,Falkland Isds (Malvinas),,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,29680,,29280,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,100728,,109690,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1117231,,1324164,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,832097,,905743,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1204844,,654048,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,124750,,278463,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,292,Gibraltar,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,6060,,15762,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,320,Guatemala,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,46000,,164269,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,115563,,325362,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,7,,26,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4570816,,4906177,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,49364444,,20156262,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4054,,8169,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,857,,1789,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,3930,,11165,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4695,,8523,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2770,,3217,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,490,"Other Asia, nes",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,950,,8419,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,512,Oman,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,3645,,2619,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,487152,,769278,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,277293,,490736,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,885638,,774715,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,6,,46,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,31900,,38486,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,557,,1025,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2499,,6840,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,101302,,185564,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,654,Saint Helena,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2520,,2774,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,694,Sierra Leone,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4800,,3832,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,5000,,11460,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,710,South Africa,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4100,,5813,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,134148,,176209,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,14502,,64891,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2583,,1985,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,625,,4347,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,17113,,49506,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,12558,,152787,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,899,"Areas, nes",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,9437,,9380,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,9146425,,12732121,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,54614693,,26028319,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,54,,144,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,709207,,1114029,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1478355,,2271443,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,124,Canada,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2002,,21057,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,144,Sri Lanka,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1984,,5982,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,729083,,714039,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,27023,,18066,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2760593,,3365579,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2,,15,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,238,Falkland Isds (Malvinas),,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,9404,,14413,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,94986,,110404,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1065341,,1412911,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1052371,,1451114,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1231645,,696740,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,124571,,253438,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,292,Gibraltar,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,8293,,17637,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,6754,,8936,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,103412,,132286,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,199,,992,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1576185,,3580137,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,50329169,,20038754,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,645,,2263,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4711,,6967,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,700,,6977,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,410,Rep. of Korea,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,81,,1547,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,8431,,13237,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,337,,613,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,458,Malaysia,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,676,,8945,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,36982,,29818,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,490,"Other Asia, nes",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,210,,4947,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,846997,,1515483,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,367965,,625494,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,785623,,713609,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,12,,15,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,39974,,49440,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1366,,2600,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,550,,3870,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,103064,,185847,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,300,,1688,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,800,,9425,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,710,South Africa,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,21621,,31208,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2,,18,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,180556,,150170,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,17628,,75952,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1420,,1433,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1090,,6875,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,17974,,35034,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2586,,41897,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,899,"Areas, nes",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,8184,,6950,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,19068117,,15046042,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,61704890,,25981446,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,5381,,3710,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,783504,,867549,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,628070,,914668,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,92,Br. Virgin Isds,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,18900,,28866,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,124,Canada,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2060,,21197,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,585464,,818860,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,11498,,27406,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,28,,140,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2050993,,2448024,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,14,,6,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,231,Ethiopia,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,15,,2188,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,238,Falkland Isds (Malvinas),,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,11692,,11229,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,61053,,70265,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,867988,,1112694,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,661821,,951753,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1106765,,620175,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,239603,,629047,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,292,Gibraltar,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,7740,,18238,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,51,,114,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,328,Guyana,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,18000,,70132,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,195865,,440723,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,910,,1145,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,27,,103,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,12927678,,8473984,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,58620240,,21032317,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4091,,7582,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,3637,,7578,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2134,,21261,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,410,Rep. of Korea,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,74,,1375,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,135,,1260,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,6792,,10977,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,440,Lithuania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,117,,559,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,35773,,24218,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,490,"Other Asia, nes",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,180,,2743,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,512,Oman,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,384,,2214,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,373891,,591236,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,340905,,526701,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,803149,,610316,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,8,,9,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,10965,,12410,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2305,,2952,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,456,,2527,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,104773,,181144,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,150,,2808,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,340,,1531,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,710,South Africa,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,14455,,8691,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,7175,,25904,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,196034,,204242,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,18378,,77072,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2601,,4826,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1065,,5831,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,30619,,88129,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2318,,32797,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,899,"Areas, nes",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,4743,,4061,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,19063621,,14095122,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,67372181,,29441121,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,36,Australia,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,10500,,31313,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,563068,,657801,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,894996,,1532294,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,124,Canada,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1520,,17037,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,651692,,636365,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,240,,268,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,17,,124,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1973804,,2459139,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,14,,80,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,226,Equatorial Guinea,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2031,,1756,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,238,Falkland Isds (Malvinas),,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,15445,,20098,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,112334,,132548,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,849195,,1114649,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,933032,,1232368,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1170058,,645384,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,548467,,921940,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,292,Gibraltar,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,589,,1382,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2893,,4726,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,324,Guinea,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1635,,542,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,178668,,470994,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,240,,288,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,147,,1835,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,13068286,,7250526,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,62450349,,22778436,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,3068,,7283,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,251,,2194,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,11,,1241,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,410,Rep. of Korea,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2151,,8631,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,434,Libya,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1337255,,1088219,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,7058,,11781,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,458,Malaysia,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,200,,2391,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,893,,5450,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,509105,,955292,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,43096,,116599,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,700373,,617895,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1091,,839,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,56717,,51475,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,2370,,3264,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,634,Qatar,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,540,,1271,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,642,Romania,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,145150,,247175,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,654,Saint Helena,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1479,,2301,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,473,,2444,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,3758,,18795,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,710,South Africa,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,8160,,10950,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,125096,,136750,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,16724,,72073,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,57,,3324,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,780,Trinidad and Tobago,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,3840,,9626,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,775,,4361,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,25985,,115846,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,9178,,125465,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,899,"Areas, nes",,,,,,,,,0401,"Milk and cream, neither concentrated nor sweetened",0,,,,,,1728,,1418,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,8260398,,19770570,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,10929548,,26195706,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,12,Algeria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,550000,,1664085,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,28,Antigua and Barbuda,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3000,,8325,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,24741,,47909,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,52,Barbados,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,5625,,13198,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,649468,,2246219,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,48882,,142610,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,120,Cameroon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,82550,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,144,Sri Lanka,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,8420,,23160,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,96126,,1013141,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,178,Congo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,125000,,484384,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,180,Dem.Rep. of the Congo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,175000,,330837,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,191,Croatia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3,,5,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2736,,6625,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,22085,,143502,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,410,,1698,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,204,Benin,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,50000,,167647,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,29003,,94185,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,49243,,107883,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,212,Dominica,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,288501,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,73,,338,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1575451,,4615026,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,213722,,178262,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,266,Gabon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,156500,,499915,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2473026,,4557737,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1018449,,2588380,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,288,Ghana,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,94039,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,49,,200,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,324,Guinea,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,418000,,1623121,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,328,Guyana,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,32000,,97423,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,296434,,1110086,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,358,,895,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,253,,2119,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,360,Indonesia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,68683,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,368,Iraq,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,4583,,7569,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,980126,,2415060,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3087426,,4020981,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,42620,,150133,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3637,,23267,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,384,Côte d'Ivoire,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,197500,,754313,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,388,Jamaica,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,296712,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,400,Jordan,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,58259,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,404,Kenya,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,19503,,77766,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2200,,2470,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,422,Lebanon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,260000,,992409,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,428,Latvia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,18,,61,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,24931,,44560,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,458,Malaysia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,24000,,56275,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,466,Mali,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,81000,,307357,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,512,,1403,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,480,Mauritius,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,255000,,786965,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1493785,,3379355,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1936490,,3788929,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,274785,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,210608,,470594,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,6238,,10145,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,820,,3975,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,723,,3165,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,662,Saint Lucia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1950,,4797,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,130000,,595709,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,686,Senegal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,350000,,1041409,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,703,Slovakia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,8619,,39648,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3,,12,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,705,Slovenia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3600,,9335,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,648287,,1290308,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2154,,10107,,,0
+HS,2015,201501,January 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,101211,,319373,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,258,,1739,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,7819,,88570,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,764,Thailand,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,200100,,519496,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,112068,,417480,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,818,Egypt,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,150000,,349294,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,854,Burkina Faso,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,50000,,188077,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,887,Yemen,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,350000,,809764,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,894,Zambia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16000,,48246,,,0
+HS,2015,201501,January 2015,4,0,2,Exports,826,United Kingdom,,899,"Areas, nes",,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2100,,3719,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,7173180,,17405593,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,8600215,,21025055,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,12,Algeria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,300000,,808143,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,24,Angola,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,510452,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1163,,2904,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,50,Bangladesh,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,61681,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,580691,,1864769,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,73327,,90760,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,100,Bulgaria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,18,,25,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,120,Cameroon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,150000,,369180,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,144,Sri Lanka,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,5500,,14566,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,128743,,643523,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,178,Congo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,374541,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,192,Cuba,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,500000,,1315526,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3323,,6367,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1532,,7059,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,34880,,92592,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,58670,,151875,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,212,Dominica,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,50000,,152161,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,214,Dominican Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,200000,,594028,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,88,,680,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1815363,,4692458,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,193040,,367753,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,266,Gabon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,41000,,127014,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1804690,,3552583,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,283630,,754950,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,288,Ghana,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,125000,,386257,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,24,,107,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,324,Guinea,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,190500,,712912,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,328,Guyana,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16500,,48751,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,114295,,1119765,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,260,,687,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,9079,,24792,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1080275,,2892984,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2404821,,3126865,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,53276,,105704,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2063,,5179,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,384,Côte d'Ivoire,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,250000,,1053697,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,404,Kenya,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,33300,,140199,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,48000,,140736,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,422,Lebanon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,53909,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,26850,,48623,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,6,,9,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,458,Malaysia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,50000,,122551,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1717,,13469,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,478,Mauritania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,50000,,119003,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,480,Mauritius,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,75000,,265104,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,504,Morocco,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,24384,,84970,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1017284,,2336556,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1628536,,3316095,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,4100,,20634,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,586,Pakistan,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,48000,,107652,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,608,Philippines,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,150000,,437136,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,155791,,358698,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,55,,426,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,512,,4314,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,511,,1956,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,4,,11,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,654,Saint Helena,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1888,,4803,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,670,Saint Vincent and the Grenadines,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,17000,,30960,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,80000,,183283,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,686,Senegal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,300000,,777636,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,118000,,450507,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,467090,,1003699,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,29887,,99072,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,740,Suriname,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,79531,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,133786,,398823,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,652,,5464,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,6881,,70217,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,764,Thailand,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100,,1278,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,768,Togo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16500,,49088,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,8638,,66931,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,818,Egypt,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,275207,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,834,United Rep. of Tanzania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2652,,11817,,,0
+HS,2015,201502,February 2015,4,0,1,Imports,826,United Kingdom,,842,United States of America,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,900,,46044,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1280,,18246,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,854,Burkina Faso,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,75000,,286797,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,887,Yemen,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,350000,,961707,,,0
+HS,2015,201502,February 2015,4,0,2,Exports,826,United Kingdom,,899,"Areas, nes",,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2340,,4196,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,7692638,,19060364,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,11924477,,26293698,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,12,Algeria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,650000,,1863881,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,24,Angola,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,230000,,973881,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,28,Antigua and Barbuda,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,4000,,13893,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,26,,213,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,50,Bangladesh,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,150550,,330164,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,52,Barbados,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1060,,2726,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,584644,,1963490,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,119384,,294417,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,104,Myanmar,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,404,,7116,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,120,Cameroon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,125000,,337195,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,136,Cayman Isds,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,195,,3048,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,144,Sri Lanka,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,10850,,22751,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,203800,,1724369,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,178,Congo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,125000,,461344,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,180,Dem.Rep. of the Congo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,75000,,132725,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,192,Cuba,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,384000,,1120079,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3146,,6899,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,5,,69,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,13050,,30979,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,27719,,54006,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,214,Dominican Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,150000,,437269,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,226,Equatorial Guinea,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16500,,51332,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,76,,801,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2003469,,4993292,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,160239,,299757,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,266,Gabon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,46500,,148343,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1767483,,4270991,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2007534,,1364342,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,18,,37,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,324,Guinea,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,271500,,1061436,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,328,Guyana,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16000,,54840,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,337883,,2052802,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,202,,605,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2058,,5608,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1288586,,3004064,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2972019,,3545587,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3389,,18234,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,5087,,15097,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,384,Côte d'Ivoire,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,425000,,1627061,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,388,Jamaica,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,50000,,134868,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,404,Kenya,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,10187,,45219,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,41000,,121518,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,422,Lebanon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,425000,,1242658,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,428,Latvia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,48,,187,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,428,Latvia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,8,,70,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,434,Libya,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,490552,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,87786,,138131,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,466,Mali,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,31000,,119335,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1682,,12874,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,478,Mauritania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16000,,46152,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,480,Mauritius,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,73000,,194665,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1100396,,2763922,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1498845,,2441071,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2800,,16177,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,586,Pakistan,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,73000,,162001,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,608,Philippines,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,150000,,419919,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,144301,,278409,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,794,,2774,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,13519,,42537,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,820,,2933,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,654,Saint Helena,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3888,,9967,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,670,Saint Vincent and the Grenadines,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16000,,53441,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,124000,,281236,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,686,Senegal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,225000,,702618,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,699,India,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1845,,7489,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,29808,,106906,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,704,Viet Nam,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,395,,7245,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,503324,,1097304,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,47090,,145049,,,0
+HS,2015,201503,March 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,182441,,458221,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1201,,10076,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,4429,,89090,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,43092,,225175,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,854,Burkina Faso,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,125000,,463591,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,858,Uruguay,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16000,,45991,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,887,Yemen,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,290000,,676375,,,0
+HS,2015,201503,March 2015,4,0,2,Exports,826,United Kingdom,,899,"Areas, nes",,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2040,,3575,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,6116348,,15331785,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,14119265,,29029759,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,12,Algeria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,416800,,1571076,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,24,Angola,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,190000,,931796,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,30,,194,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,568065,,1719940,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,21666,,48162,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,120,Cameroon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,332170,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,219930,,2056955,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,178,Congo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,65000,,269037,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,180,Dem.Rep. of the Congo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,20000,,30533,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,192,Cuba,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,324000,,888995,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,652,,4627,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,93731,,287886,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,71,,477,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,28575,,67044,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1512,,6772,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,212,Dominica,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,318694,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,214,Dominican Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,304013,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,246,Finland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,294,,1381,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1421917,,3686819,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,654322,,970204,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,266,Gabon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,78535,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1649621,,3474737,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,474004,,2759756,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25,,151,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,324,Guinea,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,277500,,1203604,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,328,Guyana,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,85901,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,166859,,1591035,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,348,Hungary,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,440,,1142,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,9063,,24013,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,360,Indonesia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,50000,,176578,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1175352,,3263903,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,6425516,,6347285,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2493,,14302,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,155,,1102,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,384,Côte d'Ivoire,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,250000,,904263,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,400,Jordan,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,866,,2158,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,84965,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,422,Lebanon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,810960,,2500357,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,428,Latvia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,122,,436,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,4235,,11646,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,41,,18,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,466,Mali,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,152500,,663064,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,138,,779,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,478,Mauritania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,95284,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,788215,,1961393,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2869336,,3726544,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,562,Niger,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,80973,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,75,,1563,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,586,Pakistan,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,24350,,62639,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,53074,,112175,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,306,,970,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2852,,8966,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,597,,2333,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,642,Romania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1,,25,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,654,Saint Helena,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1893,,4717,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,659,Saint Kitts and Nevis,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1000,,2765,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,106944,,265501,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,703,Slovakia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,63,,342,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,306542,,654450,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,23971,,73855,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,21003,,64736,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,116,,593,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,764,Thailand,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,9300,,29815,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,61258,,227149,,,0
+HS,2015,201504,April 2015,4,0,1,Imports,826,United Kingdom,,826,United Kingdom,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,170,,2302,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,842,United States of America,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,13092,,82956,,,0
+HS,2015,201504,April 2015,4,0,2,Exports,826,United Kingdom,,854,Burkina Faso,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,50000,,212988,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,7601035,,16511554,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16778085,,29415738,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,12,Algeria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,750000,,2180700,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,40,Austria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,600,,780,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,40,Austria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,32,,322,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,50,Bangladesh,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,120000,,281670,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,541081,,1353489,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,56,Belgium,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,304834,,203041,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,104,Myanmar,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,422,,7428,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,120,Cameroon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,175000,,428671,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,124,Canada,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,23000,,57455,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,156,China,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,566230,,3851774,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,178,Congo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,125000,,575677,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,180,Dem.Rep. of the Congo,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,94000,,139718,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,192,Cuba,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,832000,,2316507,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,196,Cyprus,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,303,,1055,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,203,Czech Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,12,,82,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,204,Benin,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,339229,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,19200,,51980,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,208,Denmark,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3285,,8661,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,214,Dominican Rep.,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100000,,322707,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,233,Estonia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,19,,102,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1735952,,4309938,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,251,France,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,762301,,1263196,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1288003,,2793102,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,276,Germany,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,616754,,996368,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,288,Ghana,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,235000,,365088,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,292,Gibraltar,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,207,,6011,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,300,Greece,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,88,,395,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,320,Guatemala,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,46000,,110634,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,324,Guinea,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,101363,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,344,"China, Hong Kong SAR",,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,229631,,2015405,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,348,Hungary,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3133,,9047,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2252374,,3841607,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,372,Ireland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,6290736,,6202519,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,376,Israel,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,886,,2660,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,168,,2069,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,381,Italy,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,52940,,92296,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,384,Côte d'Ivoire,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,375000,,1404374,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,388,Jamaica,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,66000,,173765,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,392,Japan,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,25000,,110261,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,404,Kenya,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,13890,,54449,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,414,Kuwait,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16000,,50838,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,422,Lebanon,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,169000,,444352,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,434,Libya,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,79715,,367437,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,440,Lithuania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,5679,,15280,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,442,Luxembourg,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,164,,421,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,458,Malaysia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,50000,,143045,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,470,Malta,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3590,,28470,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1132070,,2658006,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,528,Netherlands,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,3526942,,2547131,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,562,Niger,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,232000,,724803,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,566,Nigeria,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,150000,,411317,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,579,Norway,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2700,,8894,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,608,Philippines,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,24000,,23213,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,100407,,218112,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,616,Poland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,249306,,90781,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,21742,,69456,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,620,Portugal,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1034,,3801,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,670,Saint Vincent and the Grenadines,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,32000,,94374,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,682,Saudi Arabia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,110944,,262936,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,702,Singapore,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,24000,,54703,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,703,Slovakia,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,13,,53,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,363731,,838917,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,724,Spain,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,30892,,93908,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,740,Suriname,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,16000,,42968,,,0
+HS,2015,201505,May 2015,4,0,1,Imports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,140028,,358819,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,752,Sweden,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,80,,569,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,757,Switzerland,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1628,,16713,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,784,United Arab Emirates,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,117573,,338823,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,792,Turkey,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,2213,,37883,,,0
+HS,2015,201505,May 2015,4,0,2,Exports,826,United Kingdom,,834,United Rep. of Tanzania,,,,,,,,,0402,"Milk and cream, concentrated or sweetened",0,,,,,,1588,,5676,,,0

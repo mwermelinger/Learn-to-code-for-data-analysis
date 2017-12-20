@@ -1,0 +1,195 @@
+Country,Population (1000s),TB deaths
+Afghanistan,30552,13000.0
+Albania,3173,20.0
+Algeria,39208,5100.0
+Andorra,79,0.26
+Angola,21472,6900.0
+Antigua and Barbuda,90,1.2
+Argentina,41446,570.0
+Armenia,2977,170.0
+Australia,23343,45.0
+Austria,8495,29.0
+Azerbaijan,9413,360.0
+Bahamas,377,1.8
+Bahrain,1332,9.6
+Bangladesh,156595,80000.0
+Barbados,285,2.0
+Belarus,9357,850.0
+Belgium,11104,18.0
+Belize,332,20.0
+Benin,10323,1300.0
+Bhutan,754,88.0
+Bolivia (Plurinational State of),10671,430.0
+Bosnia and Herzegovina,3829,190.0
+Botswana,2021,440.0
+Brazil,200362,4400.0
+Brunei Darussalam,418,13.0
+Bulgaria,7223,150.0
+Burkina Faso,16935,1500.0
+Burundi,10163,2300.0
+Côte d'Ivoire,20316,4000.0
+Cabo Verde,499,150.0
+Cambodia,15135,10000.0
+Cameroon,22254,7800.0
+Canada,35182,62.0
+Central African Republic,4616,2200.0
+Chad,12825,2900.0
+Chile,17620,220.0
+China,1393337,41000.0
+Colombia,48321,770.0
+Comoros,735,58.0
+Congo,4448,2000.0
+Cook Islands,21,0.41
+Costa Rica,4872,33.0
+Croatia,4290,52.0
+Cuba,11266,37.0
+Cyprus,1141,2.3
+Czech Republic,10702,28.0
+Democratic People's Republic of Korea,24895,6700.0
+Democratic Republic of the Congo,67514,46000.0
+Denmark,5619,24.0
+Djibouti,873,870.0
+Dominica,72,2.7
+Dominican Republic,10404,590.0
+Ecuador,15738,320.0
+Egypt,82056,550.0
+El Salvador,6340,61.0
+Equatorial Guinea,757,67.0
+Eritrea,6333,1200.0
+Estonia,1287,32.0
+Ethiopia,94101,30000.0
+Fiji,881,37.0
+Finland,5426,17.0
+France,64291,340.0
+Gabon,1672,910.0
+Gambia,1849,370.0
+Georgia,4341,310.0
+Germany,82727,300.0
+Ghana,25905,1100.0
+Greece,11128,77.0
+Grenada,106,1.1
+Guatemala,15468,250.0
+Guinea,11745,3200.0
+Guinea-Bissau,1704,1200.0
+Guyana,800,130.0
+Haiti,10317,2700.0
+Honduras,8098,230.0
+Hungary,9955,81.0
+Iceland,330,0.93
+India,1252140,240000.0
+Indonesia,249866,64000.0
+Iran (Islamic Republic of),77447,2500.0
+Iraq,33765,780.0
+Ireland,4627,18.0
+Israel,7733,16.0
+Italy,60990,310.0
+Jamaica,2784,17.0
+Japan,127144,2100.0
+Jordan,7274,35.0
+Kazakhstan,16441,1600.0
+Kenya,44354,9100.0
+Kiribati,102,30.0
+Kuwait,3369,33.0
+Kyrgyzstan,5548,620.0
+Lao People's Democratic Republic,6770,3600.0
+Latvia,2050,43.0
+Lebanon,4822,42.0
+Lesotho,2074,960.0
+Liberia,4294,2100.0
+Libya,6202,540.0
+Lithuania,3017,250.0
+Luxembourg,530,2.2
+Madagascar,22925,12000.0
+Malawi,16363,1500.0
+Malaysia,29717,1700.0
+Maldives,345,7.6
+Mali,15302,1600.0
+Malta,429,1.5
+Marshall Islands,53,21.0
+Mauritania,3890,1000.0
+Mauritius,1244,15.0
+Mexico,122332,2200.0
+Micronesia (Federated States of),104,22.0
+Monaco,38,0.03
+Mongolia,2839,140.0
+Montenegro,621,1.2
+Morocco,33008,2800.0
+Mozambique,25834,18000.0
+Myanmar,53259,26000.0
+Namibia,2303,1300.0
+Nauru,10,0.67
+Nepal,27797,4600.0
+Netherlands,16759,20.0
+New Zealand,4506,6.3
+Nicaragua,6080,160.0
+Niger,17831,3100.0
+Nigeria,173615,160000.0
+Niue,1,0.01
+Norway,5043,4.4
+Oman,3632,25.0
+Pakistan,182143,49000.0
+Palau,21,0.36
+Panama,3864,180.0
+Papua New Guinea,7321,2400.0
+Paraguay,6802,200.0
+Peru,30376,2300.0
+Philippines,98394,27000.0
+Poland,38217,650.0
+Portugal,10608,140.0
+Qatar,2169,2.7
+Republic of Korea,49263,2600.0
+Republic of Moldova,3487,480.0
+Romania,21699,1200.0
+Russian Federation,142834,17000.0
+Rwanda,11777,810.0
+Saint Kitts and Nevis,54,1.6
+Saint Lucia,182,2.2
+Saint Vincent and the Grenadines,109,3.1
+Samoa,190,6.1
+San Marino,31,0.0
+Sao Tome and Principe,193,18.0
+Saudi Arabia,28829,960.0
+Senegal,14133,2900.0
+Serbia,9511,150.0
+Seychelles,93,1.4
+Sierra Leone,6092,2600.0
+Singapore,5412,94.0
+Slovakia,5450,35.0
+Slovenia,2072,21.0
+Solomon Islands,561,81.0
+Somalia,10496,7700.0
+South Africa,52776,25000.0
+South Sudan,11296,4500.0
+Spain,46927,240.0
+Sri Lanka,21273,1300.0
+Sudan,37964,9700.0
+Suriname,539,12.0
+Swaziland,1250,1100.0
+Sweden,9571,13.0
+Switzerland,8078,17.0
+Syrian Arab Republic,21898,450.0
+Tajikistan,8208,570.0
+Thailand,67010,8100.0
+The former Yugoslav republic of Macedonia,2107,33.0
+Timor-Leste,1133,990.0
+Togo,6817,810.0
+Tonga,105,2.5
+Trinidad and Tobago,1341,29.0
+Tunisia,10997,230.0
+Turkey,74933,310.0
+Turkmenistan,5240,1300.0
+Tuvalu,10,2.8
+Uganda,37579,4100.0
+Ukraine,45239,6600.0
+United Arab Emirates,9346,64.0
+United Kingdom of Great Britain and Northern Ireland,63136,340.0
+United Republic of Tanzania,49253,6000.0
+United States of America,320051,490.0
+Uruguay,3407,40.0
+Uzbekistan,28934,2200.0
+Vanuatu,253,16.0
+Venezuela (Bolivarian Republic of),30405,480.0
+Viet Nam,91680,17000.0
+Yemen,24407,990.0
+Zambia,14539,3600.0
+Zimbabwe,14150,5700.0

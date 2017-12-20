@@ -1,0 +1,2631 @@
+
+<html>
+    <head>
+        <title>Pivot Demo</title>
+        <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/nicolaskruchten/pivottable/master/dist/pivot.css">
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+        <script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="https://cdn.rawgit.com/nicolaskruchten/pivottable/master/dist/pivot.js"></script>
+    </head>
+    <style>
+        * {font-family: Verdana;}
+    </style>
+    <body>
+        <script type="text/javascript">
+            $(function(){
+                    var input = $("#input")
+                    $("#output").pivotUI(input);
+             });
+        </script>
+        
+        <div id="output" style="margin: 10px;"></div>
+        <br /><br /><br />
+        <table id="input" style="display:none" border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Year</th>
+      <th>Period</th>
+      <th>Partner</th>
+      <th>Trade Flow</th>
+      <th>Commodity</th>
+      <th>Trade Value (US$)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 21950747</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 46923551</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  4472349</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  5663128</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2233438</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>      417</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1522872</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2919079</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1028700</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   982240</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 10676138</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 32069689</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1087006</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  4037304</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 18685555</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 40191337</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1979879</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2790808</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2074297</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>       40</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1444455</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2213617</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   965310</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   609289</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 10091544</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 30336727</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1234982</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2555464</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 17984197</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 43794068</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2258058</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  3900370</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2523620</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>      150</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1414291</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  4712500</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   904917</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1506284</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  8843285</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 27302843</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1146653</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  4061277</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 19440268</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 42295262</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  3258041</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2390069</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2453031</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>     1085</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1912257</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2821322</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2356043</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1702836</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  7453388</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 30012776</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   628597</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  3004028</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 21665661</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 40213210</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2707248</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2120867</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2311364</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   156394</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1638838</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2266465</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2199671</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1394273</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 11065926</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 30436121</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   664032</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1626702</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 16022428</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 39721804</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1346169</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1395278</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1972893</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   215831</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1449614</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2523314</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1856919</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1126352</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  7597407</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 31043637</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   846077</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1368661</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 19128107</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 39508127</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1417956</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   842327</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2978905</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   111562</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2096771</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  3606510</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1817270</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   898346</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  7709174</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 29943028</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1920054</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1424401</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 16934042</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 26657487</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1055282</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   737238</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2304108</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   192927</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1474883</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   345336</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1280432</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   173374</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  9093382</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 23573848</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   732366</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   390045</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 19284385</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 33279381</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1209182</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   578297</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2804709</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>    89685</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1259777</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   599127</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1001417</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   587925</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 11583314</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 28619275</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   591458</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   406087</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 18353099</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 26615557</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   954886</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   609637</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2539499</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>    72569</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1483422</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   658064</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1245985</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   936431</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 10370276</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 21360068</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   628061</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   337973</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 17617864</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 25876674</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   830868</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1000901</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2531334</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>    72457</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1720555</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   858527</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   938146</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   596945</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  9939612</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 20206100</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   635258</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   977441</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 15041417</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 28714207</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   693418</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1012858</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Denmark</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2705409</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Denmark</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   146170</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1958660</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  2073680</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  1240925</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   796655</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>  6956193</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td> 21434455</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   562979</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td> Milk and cream, neither concentrated nor sweet...</td>
+      <td>   941027</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 30423330</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 40215102</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4792662</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3584038</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   812056</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  8020014</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   189337</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4545873</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3187636</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5966962</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  8908460</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4650774</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201401</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5601324</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 20614513</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 32298380</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  7220679</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1822452</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   362645</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6494426</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   132010</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4407811</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1706410</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3466520</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  9634586</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2771416</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201402</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2598684</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 26335257</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 42987356</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  9835523</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2606324</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   811496</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  7545848</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   669592</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4973096</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1571913</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5364123</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 11015471</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3849205</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201403</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2007607</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 24770337</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 52900520</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 14875816</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2107243</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   814392</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5917331</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2195745</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3840240</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2705313</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5956478</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 11712344</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5179295</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201404</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6772638</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 26409463</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 55987928</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 19656679</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1967144</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   840183</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  7183954</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1737071</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4013241</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2600644</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6458315</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  9284249</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4530795</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201405</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6360679</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 29081875</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 59594101</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 22411564</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1962803</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   731516</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6948169</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   835724</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5645093</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1475770</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  8337597</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  9836329</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4189674</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201406</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  7858429</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 25668643</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 33370592</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3214364</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2839499</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>    28650</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6630456</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   741461</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3865048</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   493977</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6239536</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  8430285</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4849238</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201407</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2650128</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 23360791</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 35080212</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   440766</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2059585</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1317440</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  7051096</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1095033</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3891589</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2422706</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5323205</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  7431534</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3228538</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201408</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3170958</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 37418159</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 27320918</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1659167</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3836007</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>    83721</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  8514848</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   262833</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  7550138</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2921594</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5483656</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  5498955</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6187630</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201409</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   979298</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 38012444</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 30387863</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4074424</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3302017</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   116425</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  8638220</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   340620</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  7113185</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3765190</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3720326</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3367531</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  9941905</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201410</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2978957</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 39465352</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 23417284</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2107597</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6571627</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   144579</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  7938295</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>    95423</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6432700</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   338815</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3783299</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3502820</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  8630781</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201411</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4721974</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>       World</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 20217009</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>       World</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td> 31301034</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Algeria</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3464600</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Belgium</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3496670</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Belgium</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   238126</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>      France</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  4749124</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>      France</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>   730592</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Germany</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3498951</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Germany</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1595715</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Ireland</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  2836230</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td>     Ireland</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  6267310</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td> Netherlands</td>
+      <td> Imports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  3522461</td>
+    </tr>
+    <tr>
+      <td> 2014</td>
+      <td> 201412</td>
+      <td> Netherlands</td>
+      <td> Exports</td>
+      <td>         Milk and cream, concentrated or sweetened</td>
+      <td>  1817996</td>
+    </tr>
+  </tbody>
+</table>
+
+    </body>
+</html>
