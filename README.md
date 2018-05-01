@@ -13,7 +13,22 @@ the necessary data analysis and visualisation libraries;
 - one exercise notebook, one project notebook, and the necessary datasets, for each of the 4 parts of the course;
 - additional software for interactive pivot tables in part 4.
 
-## Instructions
+You can run Jupyter notebooks 
+locally on your computer using software like Anaconda, or 
+you can run them in the cloud using services like CoCalc and Microsoft Azure. 
+Running notebooks in the cloud will be noticeably slower, 
+but you won't have to install any software and 
+you can run them from wherever you have Internet access. 
+
+## Instructions (Microsoft Azure)
+
+You can use load and run these notebooks directly in Microsoft Azure,
+without downloading them first to your computer.
+
+Please click above on the `Microsoft_Azure_Instructions` folder,
+and follow the instructions contained therein.
+
+## Instructions (Anaconda and CoCalc)
 
 To use the notebooks and data files for the course,
 click on the green 'Clone or download' button above.
@@ -28,6 +43,7 @@ You can rename the folder to whatever name you prefer.
 If you will be working on the course using your desktop, e.g. with Anaconda, 
 you need to move that folder to anywhere within your home folder,
 so that Jupyter can find your notebooks and open them.
+
 If you will be working on the course using a web-based service, e.g. CoCalc, 
 you need to upload the folder to that service.
 
