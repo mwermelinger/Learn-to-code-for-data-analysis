@@ -27,8 +27,8 @@ Click on the `test_installation.ipynb` link to launch the test notebook:
 ![](test_notebook.png)
 
 When you launch the first notebook in a session, 
-the notebook server may take some time to stat up.
-Then you should see and be able to work through the test notebook.
+the notebook server may take some time to start up.
+After a while the test notebook will be opened and you can work through it.
 
 Any changes you make to the course's notebooks will be saved in your library.
 You can also add new notebooks and data files to this or other libraries
