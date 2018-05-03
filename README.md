@@ -6,7 +6,10 @@ _Learn to Code for Data Analysis_, which is available:
 - twice a year on [FutureLearn](http://tiny.cc/lcda), with discussion forums and facilitator support;
 - 24/7 on [OpenLearn](http://tiny.cc/lcda-ol), without forums and without support.
 
-This repository does _not_ contain the course materials. It contains:
+The course was written by Michel Wermelinger (parts 1 and 3),
+Rob Griffiths (part 2) and Tony Hirst (part 4).
+
+This repository does _not_ contain the course text. It contains:
 
 - one test notebook to check that your software installation includes Python 3 and 
 the necessary data analysis and visualisation libraries;
@@ -22,10 +25,9 @@ you can run them from wherever you have Internet access.
 
 ## Instructions (Microsoft Azure)
 
-You can use load and run these notebooks directly in Microsoft Azure,
-without downloading them first to your computer.
-
-Please click above on the `Microsoft_Azure_Instructions` folder,
+You can copy these notebooks directly to Microsoft Azure,
+without downloading them first to your computer, and run them there.
+Just click above on the `Microsoft_Azure_Instructions` folder,
 and follow the instructions contained therein.
 
 ## Instructions (Anaconda and CoCalc)
@@ -68,9 +70,6 @@ the Jupyter Notebooks programming environment.
 The course does not assume prior experience in programming, data analysis, or statistics, 
 but it requires basic numeracy and digital skills, like understanding percentages 
 and working with files and folders.
-
-The course was written by Michel Wermelinger (parts 1 and 3),
-Rob Griffiths (part 2) and Tony Hirst (part 4).
 
 ### Learning outcomes
 - Understanding basic programming and data analysis concepts
