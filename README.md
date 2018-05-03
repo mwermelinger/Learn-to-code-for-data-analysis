@@ -30,7 +30,7 @@ you can run them from wherever you have Internet access.
 You can copy these notebooks directly to Microsoft Azure,
 without downloading them first to your computer, and run them there.
 
-If you already have a Microsoft Live account, just click the 'launch' badge above.
+If you have used Azure Notebooks before, just click the 'launch' badge above.
 Otherwise, click in the file list above on the `Microsoft_Azure_Instructions` folder,
 and follow the instructions contained therein.
 
