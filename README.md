@@ -25,9 +25,13 @@ you can run them from wherever you have Internet access.
 
 ## Instructions (Microsoft Azure)
 
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/mwermelinger/Learn-to-code-for-data-analysis)
+
 You can copy these notebooks directly to Microsoft Azure,
 without downloading them first to your computer, and run them there.
-Just click above on the `Microsoft_Azure_Instructions` folder,
+
+If you already have a Microsoft Live account, just click the 'launch' badge above.
+Otherwise, click in the file list above on the `Microsoft_Azure_Instructions` folder,
 and follow the instructions contained therein.
 
 ## Instructions (Anaconda and CoCalc)
