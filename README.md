@@ -30,9 +30,9 @@ you can run them from wherever you have Internet access.
 You can copy these notebooks directly to Microsoft Azure,
 without downloading them first to your computer, and run them there.
 To do so, 
-if you have used Azure Notebooks before, click the 'launch' badge above.
-Otherwise follow
-[these instructions](blob/master/Microsoft_Azure_Instructions/README.md).
+if you have used Azure Notebooks before, click the 'launch' badge above,
+otherwise follow
+[these instructions](Microsoft_Azure_Instructions/README.md).
 
 ## Instructions (Anaconda and CoCalc)
 
