@@ -29,14 +29,14 @@ you can run them from wherever you have Internet access.
 
 You can copy these notebooks directly to Microsoft Azure,
 without downloading them first to your computer, and run them there.
-
-If you have used Azure Notebooks before, just click the 'launch' badge above.
-Otherwise, click in the file list above on the `Microsoft_Azure_Instructions` folder,
-and follow the instructions contained therein.
+To do so, 
+if you have used Azure Notebooks before, click the 'launch' badge above.
+Otherwise follow
+[these instructions](blob/master/Microsoft_Azure_Instructions/README.md).
 
 ## Instructions (Anaconda and CoCalc)
 
-To use the notebooks and data files for the course,
+To get the notebooks and data files for the course,
 click on the green 'Clone or download' button above.
 You will see a pop-up window with a button 'Download ZIP'. Click on it. 
 The notebooks and data files will be downloaded as a compressed archive: a file with extension `.zip`.
@@ -52,6 +52,9 @@ so that Jupyter can find your notebooks and open them.
 
 If you will be working on the course using a web-based service, e.g. CoCalc, 
 you need to upload the folder to that service.
+
+The instructions for installing Anaconda or using Cocalc
+are given at the start of the course.
 
 ## The course
  
