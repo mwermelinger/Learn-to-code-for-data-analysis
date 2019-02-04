@@ -1,10 +1,9 @@
 # Learn to code for data analysis
 
 This repository provides the Jupyter notebooks and datasets for the Open University course
-_Learn to Code for Data Analysis_, which is available:
-
-- twice a year on [FutureLearn](http://tiny.cc/lcda), with discussion forums and facilitator support;
-- 24/7 on [OpenLearn](http://tiny.cc/lcda-ol), without forums and without support.
+_Learn to Code for Data Analysis_, which was available
+twice a year on [FutureLearn](http://tiny.cc/lcda), with discussion forums and facilitator support,
+and is now available 24/7 on [OpenLearn](http://tiny.cc/lcda-ol), without forums and without support.
 
 The course was written by Michel Wermelinger (parts 1 and 3),
 Rob Griffiths (part 2) and Tony Hirst (part 4).
